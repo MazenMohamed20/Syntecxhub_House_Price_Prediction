@@ -147,7 +147,7 @@ python predict.py
 
 **Mazen Mohamed**  
 Machine Learning Trainee — SyntecxHub  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/MazenMohamed20)
 
 ---
 
